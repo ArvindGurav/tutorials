@@ -1,3 +1,0 @@
-This is third one.
-
-Changes to third.new changes. stagging
