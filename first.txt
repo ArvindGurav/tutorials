@@ -3,3 +3,5 @@ I m Sam and I like Ham. This is my first commit.
 Made new changes.
 
 Compare.
+
+New comapre changes
